@@ -25,14 +25,14 @@ Guilherme Bortolaso | gui.bortolaso@gmail.com | Brazil
 James Lee | kcbighuge@gmail.com | USA
 
 ## Traffic Light Detection
-Traffic light will be detected by a relatively compact ssd_mobilenet_v1_coco_2017_11_17 at high speed.
-The class ID of the signal light of this model is 10. After detecting the traffic light, classify the color of the Traffic light. A classifier using CNN and FCN was applied. Good results were obtained in Simulator and Real World Test.
+The Traffic light will be detected by a relatively compact ssd_mobilenet_v1_coco_2017_11_17 at high speed.
+The class ID of the traffic light of this model is 10. After detecting the traffic light, classify the color of the traffic light. A classifier using CNN and FCN was applied. Good results were obtained in Simulator and Real World Testing.
 
 ## Waypoint Updater
 This node realize to update the target speed characteristic of each waypoint based on traffic signal and obstacle detection data.
 
 ## DBW (Drive-By-Wire) Node
-This node finally calculates throttle, brake, steering angle.1
+This node finally calculates throttle, brake, steering angle.
 
 ## Results
 The running scene of the car in the simulator and the signal detection result in the real world are shown below.
