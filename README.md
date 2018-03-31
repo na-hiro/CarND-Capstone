@@ -16,7 +16,7 @@ The following is a system architecture diagram showing the ROS nodes and topics 
 
 # Contributors
 Our team has four members.
-1
+
 Team member name | Udacity account email | Location
 ---------------- | --------------------- | --------
 Hironori Nagai - Team Lead| hinagai.5963@gmail.com | Japan
