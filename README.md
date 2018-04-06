@@ -28,6 +28,12 @@ James Lee | kcbighuge@gmail.com | USA
 The Traffic light will be detected by a relatively compact ssd_mobilenet_v1_coco_2017_11_17 at high speed.
 The class ID of the traffic light of this model is 10. After detecting the traffic light, classify the color of the traffic light. A classifier using CNN and FCN was applied. Good results were obtained in Simulator and Real World Testing.
 
+The traffic light detection model is compressed. Please extract it and use it.
+```
+cd CarND-Capstone/ros/src/tl_detector/
+tar -xvzf ssd_mobilenet_v1_coco_2017_11_17.tar
+```
+
 ## Waypoint Updater
 This node realize to update the target speed characteristic of each waypoint based on traffic signal and obstacle detection data.
 
