@@ -14,7 +14,7 @@ This is the project repo for the final project of the Udacity Self-Driving Car N
 The following is a system architecture diagram showing the ROS nodes and topics used in the project.
 ![architecture](https://d17h27t6h515a5.cloudfront.net/topher/2017/September/59b6d115_final-project-ros-graph-v2/final-project-ros-graph-v2.png)
 
-# Team BR menbers
+# Team BR members
 Our team(BR) has four members.
 
 Team member name | Udacity account email | Location
